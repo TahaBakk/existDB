@@ -116,5 +116,6 @@
     <orderEntry type="library" name="apache-logging-log4j2" level="project" />
     <orderEntry type="library" name="log4j-1.2.12" level="project" />
     <orderEntry type="library" name="log4j-1.2.121" level="project" />
+    <orderEntry type="library" name="log4j-api-2.1" level="project" />
   </component>
 </module>
